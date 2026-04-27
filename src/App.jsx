@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-
+// Circle - trust-based referral feed
 const PEOPLE = [
   { id: 1, name: "Maya Chen", avatar: "MC", mutuals: 4, tags: ["designer", "NYC"], note: "Incredible eye for product. Built the onboarding flow at Figma that everyone talks about.", vouchedBy: "Alex Rivera", vouchedByAvatar: "AR", category: "hire", strength: 0.95 },
   { id: 2, name: "James Okafor", avatar: "JO", mutuals: 7, tags: ["eng", "Boston"], note: "Best backend engineer I've worked with. Shipped the real-time sync at Notion solo.", vouchedBy: "Priya Sharma", vouchedByAvatar: "PS", category: "hire", strength: 0.88 },
