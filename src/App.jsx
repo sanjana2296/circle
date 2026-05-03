@@ -72,7 +72,7 @@ const PersonCard = ({ person, index, onClick, isExpanded }) => {
       <div style={{ display: "flex", alignItems: "flex-start", gap: 14 }}>
         <div style={{
           width: 48, height: 48, borderRadius: 16,
-          background: `linear-gradient(135deg, ${person.category === "hire" ? "#6366f1, #3b82f6" : person.category === "date" ? "#ec4899, #f43f5e" : "#14b8a6, #06b6d4"})`,
+          background: `linear-gradient(135deg, ${person.category === "hire" ? "#686bf1, #3b82f6" : person.category === "date" ? "#ec4899, #f43f5e" : "#14b8a6, #06b6d4"})`,
           display: "flex", alignItems: "center", justifyContent: "center",
           fontSize: 15, fontWeight: 700, color: "#fff", letterSpacing: 1,
           flexShrink: 0,
