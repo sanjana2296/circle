@@ -5,4 +5,4 @@ for hiring, dating, roommates, and everything that matters.
 
 Built with React + Vite.
 
-**Live →** https://your-vercel-url.vercel.app
+**Live →** https://circle-fawn.vercel.app/
